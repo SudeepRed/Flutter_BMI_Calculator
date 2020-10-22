@@ -1,6 +1,6 @@
 
 
-
+This was a really fun project, learnt a lot about flutter!
 # BMI Calculator 💪
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
